@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=920c0f96_002Da9bb_002D403c_002D98e0_002D70e0c8647197/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MagazineDecrementOpTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::0981594B-B93F-45E6-A03D-6BC62D2799A7::net5.0::VanguardOfSteelTest.Weapon.MagazineTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e7287ea0_002D6ce7_002D4c2a_002D9184_002Dfdd713d2bf35/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MagazineDecrementOpTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::0981594B-B93F-45E6-A03D-6BC62D2799A7::net5.0::VanguardOfSteelTest.Weapon.MagazineTest.MagazineDecrementOpTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
